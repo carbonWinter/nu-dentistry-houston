@@ -814,9 +814,9 @@
 @mixin hook-dropdown-misc(){}
 @mixin hook-flex-misc(){}
 @mixin hook-form-range(){}
-@mixin hook-form-range-thumb(){ border: $form-range-thumb-border-width solid $form-range-thumb-border; }
 @mixin hook-form-range-track(){ border-radius: $form-range-track-border-radius; }
 @mixin hook-form-range-track-focus(){}
+@mixin hook-form-range-thumb(){ border: $form-range-thumb-border-width solid $form-range-thumb-border; }
 @mixin hook-form-range-misc(){}
 @mixin hook-form(){
     border: $form-border-width solid $form-border;
@@ -1238,9 +1238,17 @@
         @if(mixin-exists(hook-inverse-search-navbar-input)) {@include hook-inverse-search-navbar-input();}
     }
 
+    .uk-search-navbar .uk-search-input:focus {
+        @if(mixin-exists(hook-inverse-search-navbar-input-focus)) {@include hook-inverse-search-navbar-input-focus();}
+    }
+
     .uk-search-large .uk-search-input {
         background-color: $inverse-search-large-background;
         @if(mixin-exists(hook-inverse-search-large-input)) {@include hook-inverse-search-large-input();}
+    }
+
+    .uk-search-large .uk-search-input:focus {
+        @if(mixin-exists(hook-inverse-search-large-input-focus)) {@include hook-inverse-search-large-input-focus();}
     }
 
     //
@@ -1559,7 +1567,7 @@
     }
 
     .uk-logo > :not(.uk-logo-inverse):not(:only-of-type) { display: none; }
-    .uk-logo-inverse { display: inline; }
+    .uk-logo-inverse { display: block; }
 
 }
 @mixin hook-inverse(){
@@ -1839,14 +1847,18 @@
 @mixin hook-search-default-input(){ border: $search-default-border-width solid $search-default-border; }
 @mixin hook-search-default-input-focus(){ border-color: $search-default-focus-border; }
 @mixin hook-search-navbar-input(){}
+@mixin hook-search-navbar-input-focus(){}
 @mixin hook-search-large-input(){}
+@mixin hook-search-large-input-focus(){}
 @mixin hook-search-toggle(){}
 @mixin hook-search-toggle-hover(){}
 @mixin hook-search-misc(){}
 @mixin hook-inverse-search-default-input(){ border-color: $inverse-global-border; }
 @mixin hook-inverse-search-default-input-focus(){}
 @mixin hook-inverse-search-navbar-input(){}
+@mixin hook-inverse-search-navbar-input-focus(){}
 @mixin hook-inverse-search-large-input(){}
+@mixin hook-inverse-search-large-input-focus(){}
 @mixin hook-inverse-search-toggle(){}
 @mixin hook-inverse-search-toggle-hover(){}
 @mixin hook-section(){}

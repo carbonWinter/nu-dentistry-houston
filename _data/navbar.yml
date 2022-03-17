@@ -1,155 +1,207 @@
 ---
 layout: dropbar
-sticky: false
+sticky: true
 color: light
 background: "#151411"
-menu_left:
-- text: Our Doctors
-  url: "/interior/"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- url: "/blocks/"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-  text: Our Practice
-- text: The Specialties
-  url: ''
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-  - text: dental implants
-    url: "#"
-    blank: false
-  - text: dental crowns
-    url: "#"
-    blank: false
-  - text: full reconstruction
-    url: "#"
-    blank: false
-  - text: metal-free fillings
-    url: "#"
-    blank: false
-  - text: dental inlays/onlays
-    url: "#"
-    blank: false
+menu_left: []
 menu_center: []
 menu_right:
-- text: Our Services
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- text: Additional Resources
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- text: Our Services
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- text: Additional Resources
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-    
-menu_mobile:
-- text: Our Doctors
-  url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-- url: "#"
-  style: link
-  blank: false
-  dropdown:
-  - text: porcelain veneers
-    url: "#"
-    blank: false
-  - text: pro teeth whitening
-    url: "#"
-    blank: false
-  text: Our Practice
-- text: The Specialties
+- text: Cosmetic Dentistry
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: porcelain veneers
-    url: "#"
+  - text: Invisalign
+    url: "/bellflower-ca/cosmetic-dentistry/invisalign/"
     blank: false
-  - text: pro teeth whitening
-    url: "#"
+  - text: Teeth Straightening
+    url: "/bellflower-ca/cosmetic-dentistry/teeth-straightening-braces/"
     blank: false
-  - text: dental implants
-    url: "#"
+  - text: Aesthetic Dentistry
+    url: "/bellflower-ca/cosmetic-dentistry/aesthetic-dentistry/"
     blank: false
-  - text: dental crowns
-    url: "#"
+  - text: Dental Veneers
+    url: "/bellflower-ca/cosmetic-dentistry/porcelain-veneers/"
     blank: false
-  - text: full reconstruction
-    url: "#"
+  - text: Pro Teeth Whitening
+    url: "/bellflower-ca/cosmetic-dentistry/pro-teeth-whitening/"
     blank: false
-  - text: metal-free fillings
-    url: "#"
-    blank: false
-  - text: dental inlays/onlays
-    url: "#"
-    blank: false
-- url: "#"
-  style: button-primary
+- text: Emergency Dentistry
+  url: ''
+  style: link
   blank: false
-  dropdown: []
-  text: Contact
+  dropdown:
+  - text: Dental Emergency
+    url: "/bellflower-ca/emergency-dentistry/dental-emergency/"
+    blank: false
+  - text: Tooth Extraction
+    url: "/bellflower-ca/emergency-dentistry/tooth-extraction/"
+    blank: false
+  - text: Gum Disease
+    url: "/bellflower-ca/emergency-dentistry/gum-disease-gingivitis/"
+    blank: false
+  - text: Root Canal
+    url: "/bellflower-ca/emergency-dentistry/endodontic-root-canal/"
+    blank: false
+- text: General Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Exam and Cleaning
+    url: "/bellflower-ca/general-dentistry/cleaning-and-exam/"
+    blank: false
+  - text: Kids Densitry
+    url: "/bellflower-ca/general-dentistry/childrens-dentistry/"
+    blank: false
+- text: Resources
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Friendly Staff
+    url: "/bellflower-ca/friendly-staff/"
+    blank: false
+  - text: New Patient Forms
+    url: "/bellflower-ca/new-patient-forms/"
+    blank: false
+  - text: Contact Us
+    url: "/contact-us/"
+    blank: false
+  - text: Patient Reviews
+    url: "/patient-reviews/"
+    blank: false
+- text: Restorative Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Cavities & Fillings
+    url: "/bellflower-ca/restorative-dentistry/cavity-fillings/"
+    blank: false
+  - text: Dental Implants
+    url: "/bellflower-ca/restorative-dentistry/dental-implants/"
+    blank: false
+  - text: Crowns & Bridges
+    url: "/bellflower-ca/restorative-dentistry/tooth-crown/"
+    blank: false
+  - text: Dentures
+    url: "/bellflower-ca/restorative-dentistry/dentures/"
+    blank: false
+- text: Specialty Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: TMJ
+    url: "/bellflower-ca/specialty-dentistry/tmj-jaw-pain/"
+    blank: false
+  - text: Sleep Dentistry
+    url: "/bellflower-ca/specialty-dentistry/dental-sedation/"
+    blank: false
+  - text: Sleep Apnea
+    url: "/bellflower-ca/specialty-dentistry/sleep-apnea/"
+    blank: false
+  - text: Oral Surgery
+    url: "/bellflower-ca/specialty-dentistry/oral-surgery/"
+    blank: false
+menu_mobile:
+- text: Cosmetic Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Invisalign
+    url: "/bellflower-ca/cosmetic-dentistry/invisalign/"
+    blank: false
+  - text: Teeth Straightening
+    url: "/bellflower-ca/cosmetic-dentistry/teeth-straightening-braces/"
+    blank: false
+  - text: Aesthetic Dentistry
+    url: "/bellflower-ca/cosmetic-dentistry/aesthetic-dentistry/"
+    blank: false
+  - text: Dental Veneers
+    url: "/bellflower-ca/cosmetic-dentistry/porcelain-veneers/"
+    blank: false
+  - text: Pro Teeth Whitening
+    url: "/bellflower-ca/cosmetic-dentistry/pro-teeth-whitening/"
+    blank: false
+- text: Emergency Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Dental Emergency
+    url: "/bellflower-ca/emergency-dentistry/dental-emergency/"
+    blank: false
+  - text: Tooth Extraction
+    url: "/bellflower-ca/emergency-dentistry/tooth-extraction/"
+    blank: false
+  - text: Gum Disease
+    url: "/bellflower-ca/emergency-dentistry/gum-disease-gingivitis/"
+    blank: false
+  - text: Root Canal
+    url: "/bellflower-ca/emergency-dentistry/endodontic-root-canal/"
+    blank: false
+- text: General Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Exam and Cleaning
+    url: "/bellflower-ca/general-dentistry/cleaning-and-exam/"
+    blank: false
+  - text: Kids Densitry
+    url: "/bellflower-ca/general-dentistry/childrens-dentistry/"
+    blank: false
+- text: Resources
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Friendly Staff
+    url: "/bellflower-ca/friendly-staff/"
+    blank: false
+  - text: New Patient Forms
+    url: "/bellflower-ca/new-patient-forms/"
+    blank: false
+  - text: Contact Us
+    url: "/contact-us/"
+    blank: false
+  - text: Patient Reviews
+    url: "/patient-reviews/"
+    blank: false
+- text: Restorative Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Cavities & Fillings
+    url: "/bellflower-ca/restorative-dentistry/cavity-fillings/"
+    blank: false
+  - text: Dental Implants
+    url: "/bellflower-ca/restorative-dentistry/dental-implants/"
+    blank: false
+  - text: Crowns & Bridges
+    url: "/bellflower-ca/restorative-dentistry/tooth-crown/"
+    blank: false
+  - text: Dentures
+    url: "/bellflower-ca/restorative-dentistry/dentures/"
+    blank: false
+- text: Specialty Dentistry
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: TMJ
+    url: "/bellflower-ca/specialty-dentistry/tmj-jaw-pain/"
+    blank: false
+  - text: Sleep Dentistry
+    url: "/bellflower-ca/specialty-dentistry/dental-sedation/"
+    blank: false
+  - text: Sleep Apnea
+    url: "/bellflower-ca/specialty-dentistry/sleep-apnea/"
+    blank: false
+  - text: Oral Surgery
+    url: "/bellflower-ca/specialty-dentistry/oral-surgery/"
+    blank: false
