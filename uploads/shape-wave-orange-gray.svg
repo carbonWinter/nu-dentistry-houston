@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 1920 1000" style="enable-background:new 0 0 1920 1000;" xml:space="preserve">
+	<style type="text/css">
+		.color-a {
+			fill: #F2F2F2;
+		}
+		.color-b {
+			fill: #58595b;
+		}
+	</style>
+	<g>
+		<path class="color-a" d="M1920,100c0,0-482.29-157.9-993.64,90S0,0,0,0l0,284.32h1920V100z"/>
+	</g>
+	<path class="color-b" d="M0,97.18c0,0,394.58,262.95,994.06,60s925.94,0,925.94,0V1000H0V97.18z"/>
+</svg>

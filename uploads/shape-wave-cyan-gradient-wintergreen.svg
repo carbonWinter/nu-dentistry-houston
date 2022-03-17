@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.3.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 1920.9 1207.6" style="enable-background:new 0 0 1920.9 1207.6;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#F2F2F2;}
+	.st1{fill: url(#cyan-gradient); }
+</style>
+<defs>
+    <linearGradient id="cyan-gradient" x1="0" y1="0" x2="1800" y2="0" gradientUnits="userSpaceOnUse">
+        <stop offset="0%" stop-color="rgba(0, 173, 255, 1)" />
+        <stop offset="66%" stop-color="rgba(0, 177, 255, 1)" />
+        <!-- <stop offset="66%" stop-color="rgba(0, 189, 255, 1)" />
+        <stop offset="77%" stop-color="rgba(0, 209, 255, 1)" /> -->
+        <stop offset="88.51%" stop-color="rgba(0, 237, 255, 1)" />
+        <stop offset="100%" stop-color="rgba(0, 255, 255, 1)" />
+      </linearGradient>
+  </defs>
+<path class="st0" d="M810.7,74.9C810.7,74.9,1547,223,1920,0c2,0,0,132.1,0,132.1S1396.4,328.9,810.7,74.9z"/>
+<path class="st1" d="M0,99c0,0,263-154,917,0s1003,0,1003,0v1108.6H1L0,99z"/>
+</svg>

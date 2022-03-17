@@ -1,7 +1,7 @@
 ---
 theme: wintergreen
 logo_dark: "/uploads/logo-dark.svg"
-logo_light: "/uploads/logo-light.svg"
+logo_light: "/uploads/client_logo_alt.svg"
 sticky_cta:
   appointment: false
   offer: false

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1920.89 1207.62">
+  <defs>
+    <style>
+      .color-a {
+        fill: #f2f2f2;
+      }
+      .color-b {
+        fill: #00d8d2;
+      }
+    </style>
+  </defs>
+  <path class="color-a" d="M810.69,74.93S1547,223,1920,0c2,0,0,132.05,0,132.05S1396.39,328.86,810.69,74.93Z"/>
+  <path class="color-b" d="M0,99S263-55,917,99s1003,0,1003,0V1207.62H1Z"/>
+</svg>

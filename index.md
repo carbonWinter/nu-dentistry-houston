@@ -1,277 +1,232 @@
 ---
 layout: blocks
-title: Home
 header:
   height: viewport
   background:
-    background_style: video
-    background_color: ''
-    background_image: "https://via.placeholder.com/1600x800"
-    background_video_file: "/uploads/video.mp4"
+    background_style: color
+    background_color: "#E2E2E2"
+    overlay: none
+    overlay_opacity: 0.7
+    background_image: "/uploads/hero-index-1-2.jpg"
+    background_video_file: ""
     background_slider: []
-    overlay: color
-    gradient: 
-    overlay_color: "#000000"
-    overlay_opacity: 0.2
-  transparent_navbar: false
-  layout: left
+    gradient: ""
+    overlay_color: ""
+  layout: centered
+  vertical_align: middle
+  color: dark
   col_one:
-    heading: ''
-    text: ''
+    heading: ""
+    text: ""
   col_two:
-    heading: ''
-    text: ''
-  color: light
+    heading: ""
+    text: ""
   page_navigation: []
+title: Home
+seo_title: ""
+description: ""
+keywords: "dentist, dentist Bellflower, Ca, dentists, emergency dentist, family dentist, dentist office, affordable dentist, dentist appointment, dental care, emergency dental care, best dentist, dental office"
+sticky_cta: false
+offer:
+  heading: ""
+  subheading: ""
+  disclaimer: ""
 blocks:
-- template: pingpong-2
-  block: pingpong-2
-  align: left
-  superheading: Bellflower California Premier Dentistry
-  heading: Featured services
-  text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam
-  cards:
-  - heading: Cleaning & exam
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
-      enim ad minim veniam, Duis autem vel eum iriure dolor in
-      hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat
-      nulla facilisis at vero eros et accumsan et iusto odio
-    image: https://via.placeholder.com/840x590
-    overlay:
-      color: '#32b9c4'
-      opacity: 0.5
+  - template: pingpong-2
+    block: pingpong-2
+    background:
+      color: dark
+      overlay:
+        opacity: 0.5
+        color: ""
+      image: ""
+      video: ""
+    color: light
+    align: left
+    superheading: "// Bellflower California Premier Dentistry"
+    heading: Featured Services
+    text: See What Dental Services Bellflower Dental Group Offers
+    cards:
+      - heading: "Exam and Cleaning "
+        copy:
+          Regular dental checkups will help keep your mouth healthy by removing plaque
+          buildup and tartar from between teeth, which can lead to tooth decay or gum
+          disease. A dental exam includes a visual inspection of all visible surfaces
+          in the mouth, including the tongue, for any signs of abnormalities like sores
+          or unusual growths.
+        image: "/uploads/bellflower-dentistry-cavities-fillings.jpg"
+        overlay:
+          color: "#33B9C4"
+          opacity: 0.7
+        button:
+          text: Learn More
+          url: "/bellflower-ca/general-dentistry/cleaning-and-exam/"
+      - heading: Dental Implants
+        copy: "Unlike dentures and other types of tooth replacement solutions, implants are permanently embedded into your jawbone and will not need any maintenance or adjustments. For many people who have lost their teeth due to injury or disease, this is an attractive option that can also offer increased speech clarity, chewing efficiency, and confidence in social situations."
+        image: "/uploads/bellflower-dentistry-dental-hygiene-cleaning-exams.jpg"
+        overlay:
+          color: "#FFCE04"
+          opacity: 0.55
+        button:
+          text: Learn More
+          url: "/bellflower-ca/restorative-dentistry/dental-implants/"
+      - heading: Invisalign
+        copy:
+          This is a great way to straighten your teeth without going through the pain
+          and hassle of wearing braces. Invisalign orthodontics can be done in as little
+          as 6 months.
+        image: "/uploads/invisalign-clear-aligners-bellflower-ca-dentist.jpg"
+        overlay:
+          color: "#6E6C66"
+          opacity: 0.7
+        button:
+          text: Learn More
+          url: "/bellflower-ca/cosmetic-dentistry/invisalign/"
+      - heading: Oral Surgery
+        copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        image: "/uploads/bellflower-ca-oral-surgery-featured-service.jpg"
+        overlay:
+          color: "#33B9C4"
+          opacity: 0.7
+        button:
+          text: Learn More
+          url: "/bellflower-ca/emergency-dentistry/tooth-extraction/"
+      - heading: Sedation / Sleep Dentistry
+        copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        image: "/uploads/bellflower-ca-sedation-featured-service.jpg"
+        overlay:
+          color: "#FFCE04"
+          opacity: 0.55
+        button:
+          text: Learn More
+          url: "/bellflower-ca/specialty-dentistry/dental-sedation/"
+      - heading: Kids Dentistry
+        copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        image: "/uploads/bellflower-ca-kids-dentist-featured-service.jpg"
+        overlay:
+          color: "#6E6C66"
+          opacity: 0.7
+        button:
+          text: Learn More
+          url: "/bellflower-ca/general-dentistry/childrens-dentistry/"
+      - heading: Same Day Dentures
+        copy: "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        image: "/uploads/bellflower-ca-dentures-same-day-featured-service.jpg"
+        overlay:
+          color: "#33B9C4"
+          opacity: 0.7
+        button:
+          text: Learn More
+          url: "/bellflower-ca/restorative-dentistry/dentures/"
+    copy: ""
+    appointment_button: false
     button:
-      text: Learn More
-      url: '#'
-  - heading: Dental implants
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
-      enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
-      nisl ut aliquip ex ea  vel illum dolore eu feugiat
-      nulla facilisis at vero eros et accumsan et iusto odio.
-    image: https://via.placeholder.com/840x590
-    overlay:
-      color: '#ffce00'
-      opacity: 0.5
-    button:
-      text: Learn More
-      url: '#'
-  button:
-    text: Request an Appointment
-    url: ""
-    blank: false
-  background:
-    color: 'muted'
-    image: ''
-    video: ''
-    overlay:
-      color: ''
-      opacity: 
-  color: ''
-- template: team-1
-  block: team-1
-  align: left
-  columns: '3'
-  superheading: gentle & Caring dentistry in bellflower, California
-  heading: Our Dental Team
-  text: Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore
-    eu fugiat nulla pariatur.
-  image: https://via.placeholder.com/1520x800
-  team:
-  - heading: Dental implants
-    title: Chief of Staff
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt.
-    image: https://via.placeholder.com/500
-    button:
-      text: Read More
-      url: "#"
-  - heading: Tooth restoration
-    title: Chief of Staff
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt.
-    image: https://via.placeholder.com/500
-    button:
-      text: Read More
-      url: "#"
-  - heading: Dental crowns
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt.
-    image: https://via.placeholder.com/500
-    button:
-      text: Read More
-      url: "#"
-  - heading: Cosmetic dentistry
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt.
-    image: https://via.placeholder.com/500
-    button:
-      text: Read More
-      url: "#"
-  - heading: Ortho & braces
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt.
-    image: https://via.placeholder.com/500
-    button:
-      text: Read More
-      url: "#"
-  - heading: Teeth cleaning
-    copy: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt.
-    image: https://via.placeholder.com/500
-    button:
-      text: Read More
-      url: "#"
-  background:
-    color: ''
-    image: ''
-    video: ''
-    overlay:
-      color: ''
-      opacity: 
-  color: dark
-- template: cta-1
-  block: cta-1
-  heading: ''
-  text: ''
-  section: medium
-  button:
-    url: ''
-  appointment_button: true
-  background:
-    color: 'dark'
-    image: ''
-    video: ''
-    overlay:
-      color: ''
-      opacity: 
-  color: dark
-- template: slider-2
-  block: slider-2
-  align: center
-  heading: 'Virtual office tour'
-  text: ''
-  superheading: 'Preview our dental offices in bellflower, California'
-  copy: ''
-  background:
-    color: 'muted'
-    image: ''
-    video: ''
-    overlay:
-      color: ''
-      opacity: 
-  color: dark  
-  slides:
-  - "https://via.placeholder.com/1520x900"
-  - "https://via.placeholder.com/1520x900"
-  - "https://via.placeholder.com/1520x900"
-  - "https://via.placeholder.com/1520x900"
-- template: contact-2
-  block: contact-2
-  align: center
-  heading: 'Book online today'
-  text: ''
-  superheading: 'Click to schedule now or call to speak to us in bellflower, California'
-  background:
-    image: "/uploads/bg-mesh.svg"
-    color: default
-    video: ''
-    overlay:
-      color: '#000000'
-      opacity: '0.7'
-  color: light  
-  hours:
-    heading: Office Hours
-    hours:
-    - Monday - Friday  9am - 5pm
-    - Saturday 9am - 3pm
-    - Sunday Closed
-  appointment:
-    heading: Schedule an Appointment
-    button:
-      text: Request an Appointment
+      text: ""
       url: ""
       blank: false
-    phone: '5556666667'
-    appointment_button: true
-  address:
-    heading: Our Address
-    address: "5060 California Ave. Suite   \n200 Bakersfield, CA 93309"
-- template: map
-  block: map
-  api_key: AIzaSyDgSfwIXtCUA96SxACvR-O7rU0aDg9LofE
-  locations:
-  - name: Gold Coast Dental - Tustin
-    address_1: 275 Centennial Way Ste. 109
-    address_2: Tustin, CA 92780
-    latitude: '35.3627114170714'
-    longitude: "-119.06046780228127"
-  marker: ''
-- template: testimonials-2
-  block: testimonials-2
-  align: left
-  heading: 'Patient stories'
-  text: 'Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.'
-  superheading: 'Dental stories in Bellflower California'
-  background:
-    image: ""
+  - template: text-1
+    block: text-1
+    background:
+      color: default
+      overlay:
+        opacity: 0.5
+        color: ""
+      image: ""
+      video: ""
+    heading_tag: H1
     color: dark
-    video: ''
-    overlay:
-      color: ''
-      opacity: '0.4'
-  color: light  
-  testimonials:
-  - heading: Best cosmetic dentist in Bakersfield
-    text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
-      enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
-      nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in
-      hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu.
-    author: Carl Redburg, Bakersfield, CA
-    image: https://via.placeholder.com/450x500
-  - heading: Awesome cosmetic dentist in Bakersfield
-    text: Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy
-      nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. Ut wisi
-      enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis
-      nisl ut aliquip ex ea commodo consequat.
-    author: Johm Redburg, Bakersfield, CA
-    image: https://via.placeholder.com/450x500
-  - heading: Top cosmetic dentist in Bakersfield
-    text: Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit
-      lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure
-      dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore
-      eu.
-    author: Tom Redburg, Bakersfield, CA
-    image: https://via.placeholder.com/450x500
-- template: images-1
-  block: images-1
-  align: left
-  color: light
-  heading: Images
-  text: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam.
-  superheading: 'Dental accreditations for bellflower'
-  images:
-  - image: "https://via.placeholder.com/295x265"
-    url: http://ada.org/
-  - image: "https://via.placeholder.com/295x265"
-    url: http://www.carecredit.com/
-  - image: "https://via.placeholder.com/295x265"
-    url: http://www.cda.org/
-  - image: "https://via.placeholder.com/295x265"
-    url: http://icoi.org/
-  - image: "https://via.placeholder.com/295x265"
-    url: http://icoi.org/
-  columns: '5'
-  background:
-    color: primary
-    image: ''
-    video: ''
-    overlay:
-      color: ''
-      opacity: 
-sticky_cta: false
-description: ''
-keywords: ''
+    align: left
+    columns: "1"
+    superheading: "// Your New Dentists in Bellflower"
+    heading: Bellflower Dental Group
+    text: Why Bellflower Dental Group Has The Dentists You Need
+    content:
+      Our highly-skilled team of quality dentists in Bellflower is here to help
+      you achieve the smile you have always dreamed of while also contributing to your
+      oral healthcare needs. We are proud to serve the Bellflower community and surrounding
+      areas by achieving perfect smiles one at a time. Take a look at what some of our
+      existing patients are saying about us below.
+    lists: []
+  - template: team-1
+    block: team-1
+    background:
+      color: muted
+      overlay:
+        opacity: 0.5
+        color: ""
+      image: ""
+      video: ""
+    color: dark
+    align: left
+    superheading: "// Gentle & Caring dentistry in bellflower, California"
+    heading: Meet Our Team
+    text: Get to know our friendly staff in Bellflower, Ca
+    team:
+      - name: Dr. Arkady Tsibel
+        title: Chief of Staff
+        copy: ""
+        button:
+          text: Read More
+          url: "/bellflower-ca/dr-arkady-tsibel/"
+        image: "/uploads/bellflower-dental-group-team-dr-tsibel.jpg"
+      - name: Dr. Dennis Hunt
+        title: Periodontist
+        copy: ""
+        button:
+          text: Read More
+          url: "/bellflower-ca/dr-dennis-hunt/"
+        image: "/uploads/bellflower-dental-group-team-dr-hunt.jpg"
+      - name: Toni Sami
+        title: Prosthodontist
+        copy: ""
+        button:
+          text: Read More
+          url: "/bellflower-ca/dr-toni-sami/"
+        image: "/uploads/bellflower-dental-group-team-dr-khalil.jpg"
+      - name: Heidi Hashemi
+        title: General Dentist
+        copy: ""
+        button:
+          text: Read More
+          url: "/bellflower-ca/dr-heidi-hashemi/"
+        image: "/uploads/team-male.jpg"
+      - name: "Bohar Mohaved "
+        title: Orthodontist
+        copy: ""
+        button:
+          text: Read More
+          url: "/bellflower-ca/dr-bohar-mohaved/"
+        image: "/uploads/team-male.jpg"
+      - name: Carmen Messier
+        title: New Patient Coordinator
+        copy: ""
+        button:
+          text: Read More
+          url: "/bellflower-ca/friendly-staff/"
+        image: "/uploads/team-female.jpg"
+    copy: ""
+    appointment_button: false
+  - template: cta-1
+    block: cta-1
+    background:
+      color: dark
+      overlay:
+        opacity: 0.8
+        color: "#000000"
+      image: ""
+      video: ""
+    overlay_size: full
+    color: dark
+    align: left
+    appointment_button: true
+    superheading: ""
+    heading: ""
+    text: ""
+    content: ""
+    button:
+      text: ""
+      url: ""
+      blank: false
+    image: ""
+    section: medium
 ---
