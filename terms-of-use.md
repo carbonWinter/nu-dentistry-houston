@@ -59,7 +59,7 @@ blocks:
 
     ### 3. CONTACTING US
 
-    If you need to contact us, you can email us at [info@bellflowerdentalgroup.com](mailto:info@bellflowerdentalgroup.com), call us at (562) 925-3765, or send us a letter at: 10318 East Rosecrans Ave, Bellflower, CA 90706 
+    If you need to contact us, you can email us at [info@bellflowerdentalgroup.com](mailto:info@bellflowerdentalgroup.com), call us at (832) 916-4144, or send us a letter at: 10318 East Rosecrans Ave, Bellflower, CA 90706 
 
     ### 4. DISCLAIMER OF WARRANTIES
 

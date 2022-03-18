@@ -79,7 +79,7 @@ blocks:
 
     The contents of this statement may be altered at any time, at our discretion.
 
-    If you have any questions regarding the privacy policy of Bellflower Dental Group then you may contact us at [info@bellflowerdentalgroup.com](mailto:info@bellflowerdentalgroup.com) or call (562) 925-3765
+    If you have any questions regarding the privacy policy of Bellflower Dental Group then you may contact us at [info@bellflowerdentalgroup.com](mailto:info@bellflowerdentalgroup.com) or call (832) 916-4144
   text: ''
   lists: []
 

@@ -6,32 +6,34 @@ sticky_cta:
   appointment: false
   offer: false
   phone: false
+
 blocks:
 - template: slider-2
   block: slider-2
   slides:
-  - "/uploads/vot-1.jpg"
-  - "/uploads/vot-2.jpg"
-  - "/uploads/vot-3.jpg"
-  - "/uploads/vot-4.jpg"
-  - "/uploads/vot-5.jpg"
-  - "/uploads/vot-7.jpg"
-  - "/uploads/vot-6.jpg"
-  - "/uploads/vot-8.jpg"
+  - "/uploads/nu-dentistry-houston-texas-exterior-1-cropped.jpg"
+  - "/uploads/nu-dentistry-houston-texas-signage-1-cropped.jpg"
+  - "/uploads/nu-dentistry-houston-texas-interior-1-cropped.jpg"
+  - "/uploads/nu-dentistry-houston-texas-interior-2-cropped.jpg"
   background:
-    color: muted
+    color: dark
     image: ''
     video: ''
     overlay:
       opacity: 0.1
       color: ''
-  superheading: "// preview our dental offices in bellflower, California"
-  heading: Virtual office tour
-  text: ''
+  superheading: "NU DENTISTRY IN SPRING, TEXAS //"
+  heading: OUR LOCATIONS
+  text: 'SEE WHAT A VISIT TO OUR MODERN, STATE-OF-THE-ART DENTIST OFFICE IS LIKE!'
   color: light
   align: center
 - template: contact-2
   block: contact-2
+  superheading: "BOOK NOW IN HOUSTON, TEXAS //"
+  heading: BOOK ONLINE
+  text: ''
+  color: light
+  align: center
   background:
     color: default
     overlay:
@@ -55,19 +57,12 @@ blocks:
   address:
     heading: LOCATION
     address: |-
-      10318 East Rosecrans Ave
-
-      Bellflower, CA 90706
-- template: map
-  block: map
-  locations:
-  - name: Bellflower Dental Group
-    address_1: 10318 East Rosecrans Ave
-    address_2: 'Bellflower, CA 90706 '
-    latitude: '33.901753148609494'
-    longitude: "-118.11381755126189"
-  marker: "/uploads/bellflower-dental-map-pin.png"
-  api_key: AIzaSyDgSfwIXtCUA96SxACvR-O7rU0aDg9LofE
+      5706 San Felipe St Ste B-300
+      Houston, TX 77057
+- template: map-image
+  block: map-image
+  image: "/uploads/map.jpg"
+  link: https://goo.gl/maps/deGuc2HQxTgvU49XA
 - template: testimonials-2
   block: testimonials-2
   background:
@@ -79,37 +74,26 @@ blocks:
     video: ''
   color: light
   testimonials:
-  - heading: Great customer service and attentive staff!
-    copy: Great customer service and attentive staff! My 3 year old enjoyed his visit!
-      Yes, I said he enjoyed it! He had to have X-rays done, and I was so worried
-      that he wasn't gonna be a happy camper but the X-ray tech, Dominique, is so
-      good with kids! The X-rays were fast and painless! Overall a great experience!
-    author: Amanda K
-    image: "/uploads/bellflower-dental-testimonail-amanda.jpg"
-  - heading: 'This dental group surpasses my expectations! '
-    copy: This dental group surpasses my expectations! Amazing staff! My experience
-      at Bellflower Dental Group was outstanding. Get bored during waiting? Don't
-      worry! You can kill time by watching a movie in their comfy, amazing movie theater,
-      or even get a massage! They even give out free cookies! I always have fun just
-      by waiting for my name to be called. I highly recommend this dental group. I
-      come to them for my braces, their ortho is incredible, the highlight of this
-      dental group. The staff is amazing, their employees are so kind and take the
-      time to perfect your braces.
-    author: Brian B
-    image: "/uploads/bellflower-dental-testimonail-bryan.jpg"
-  - heading: I love this dental office!
-    copy: I love this dental office!  I have been coming here for years. It is a one-stop-shop!  You
-      can get your x-rays, cleaning, braces, labs, dentures, toothbrushes, and more
-      all right here. They offer a movie room, 15 minute massages, child care, coffee,
-      tea, and snacks! The weekends included face painting and balloon art for the
-      kids. The staff is great, and they try to work with you if you need a payment
-      plan. I think most insurance carriers are accepted. Never had any issues with
-      any of the work done here!
-    author: Rosa V
-    image: "/uploads/bellflower-dental-testimonail-rosa.jpg"
-  superheading: "// Bellflower, Ca Patient Stories"
-  heading: Here's what our patients are saying
-  text: Check out some patient reviews for our Bellflower, Ca dental office
+  - heading: The Best Dentist in Houston
+    copy: We have been looking for a family dentist for a long time, we have tried a bunch of places but nothing felt quite like home.  Not too long ago we stumbled upon Nu Dentistry and met Dr. Ali. Not only was he professional, kind, and gentle, but he always finds a way to fit us in when we need an appointment. He’s also pretty funny! I appreciate that he takes the time to explain what he’s doing, before he does it. That really puts me at ease.
+    author: Sandra Archuletta //
+    image: "/uploads/testimonial-1.png"
+  - heading: Part of the Family
+    copy: When I come in for an exam, Dr. Alrajab makes me feel like I’m a part of his family. I haven’t had a single cavity or filling done since I started coming here, which is a real change from my last hygienist.
+    author: Anthony Fernandez //
+    image: "/uploads/testimonial-2.png"
+  - heading: Anxiety Has Kept Me Away...
+    copy: I usually have such huge anxiety when I go to a dentist appointment, which means I always put off visits until the last minute to disastrous consequences. However, Dr. Loggins helped me with sedation, so the entire process was a breeze!
+    author: Johnathan Smitts //
+    image: "/uploads/testimonial-4.png"
+  - heading: Never Thought I'd Say It...
+    copy: I never thought I’d say it, but going to the dentist is actually fun now. I recently came in for a root canal, and I got to sit back and catch up on Stranger Things without any pain!
+    author: Alexandra Jansen //
+    image: "/uploads/testimonial-3.png"
+    
+  superheading: "Nu Dentistry in Spring, Texas //"
+  heading: PATIENT STORIES
+  text: HEAR DIRECTLY FROM OUR SATISFIED CUSTOMERS!
 - template: images-1
   block: images-1
   background:
@@ -122,25 +106,24 @@ blocks:
   color: dark
   columns: expand
   gutter: small
-  superheading: Dental Accreditations in Bellflower
+  superheading: 
   heading: Our Professional Affiliations
-  text: We are proud members of these dental organizations and accreditations in Bellflower,
-    Ca
+  text:
   images:
-  - image: "/uploads/ico-accreditations-ada.png"
-    url: http://ada.org/
-  - image: "/uploads/ico-accreditations-cda.png"
-    url: http://www.cda.org/
-  - image: "/uploads/ico-accreditations-dboc.png"
-    url: http://www.dbc.ca.gov/
-  - image: "/uploads/ico-accreditations-icoi.png"
-    url: http://icoi.org/
-  - image: "/uploads/aapd.png"
-    url: http://www.aapd.org/
-  - image: "/uploads/ico-care-credit.jpg"
-    url: http://www.carecredit.com/
-  - image: "/uploads/ico-wfha.jpg"
-    url: https://retailservices.wellsfargo.com/wfha_patient.html
+  - image: "/uploads/dental-accreditations-texas-dental-association.png"
+    url: https://www.tda.org/
+  - image: "/uploads/dental-accreditations-american-academy-of-periodontology.png"
+    url: https://www.perio.org/
+  - image: "/uploads/dental-accreditation-american-dental-association.png"
+    url: https://www.ada.org/
+  - image: "/uploads/dental-accreditations-greater-houston-dental-society.png"
+    url: https://www.ghds.org/
+  - image: "/uploads/dental-accreditations-greater-houston-society-of-periodontists.png"
+    url: https://www.facebook.com/GHSPerio/
+  - image: "/uploads/dental-accreditations-southwest-society-of-periodontists.png"
+    url: https://www.swsp.org/
+  - image: "/uploads/dental-accreditation-academy-of-general-dentistry.png"
+    url: https://www.agd.org/
 - template: images-1
   block: images-1
   background:
@@ -153,21 +136,21 @@ blocks:
   color: light
   columns: '5'
   gutter: small
-  superheading: bellflower dental group on social media
+  superheading: "HOUSTON TEXAS PREMIER DENTISTRY //"
   heading: Follow Us
-  text: Stay updated about our practice, get tips and dental deals through our social
-    media accounts
+  text: WE ARE DEDICATED TO PROVIDING YOU WITH ONLY THE BEST QUALITY DENTAL CARE
   images:
-  - image: "/uploads/instagram-bellflower-dental-group-1.jpeg"
+  - image: "/uploads/insta-2.jpg"
     url: ''
-  - image: "/uploads/instagram-bellflower-dental-group-2.jpeg"
+  - image: "/uploads/insta-1.jpg"
     url: ''
-  - image: "/uploads/instagram-bellflower-dental-group-3.jpeg"
+  - image: "/uploads/insta-3.jpg"
     url: ''
-  - image: "/uploads/instagram-bellflower-dental-group-4.jpg"
+  - image: "/uploads/insta-5.jpg"
     url: ''
-  - image: "/uploads/instagram-bellflower-dental-group-5.jpg"
+  - image: "/uploads/insta-4.jpg"
     url: ''
+    
 fonts:
   body: SFCompactDisplay
   heading: SFCompactDisplay
@@ -177,11 +160,11 @@ colors:
   heading: "#534E43"
   muted: "#8D8A7F"
 backgrounds:
-  primary: "#33B9C4"
-  secondary: "#FFCE00"
-  dark: "#64625D"
+  primary: "#00c3ff"
+  secondary: "#00ffff"
+  dark: "#333333"
   muted: "#8D8A7F"
-phone: "(562) 925-3765"
+phone: "(832) 916-4144"
 appointments:
   client_id: "4"
   client_name: Bellflower Dental Group
@@ -227,10 +210,10 @@ offer:
 site_title: Bellflower Dental Group
 google_analytics: ''
 social:
-  facebook: https://www.facebook.com/BellflowerDentalGroup/
-  linkedin: https://www.linkedin.com/pub/arkady-tsibel/109/919/712
-  pinterest: https://www.pinterest.com/bellflowergroup/
-  twitter: ''
-  yelp: https://www.yelp.com/biz/bellflower-dental-group-bellflower
-  youtube: https://www.youtube.com/channel/UCH7qhd1MaYCgduCKUCn63pA
-  instagram: https://instagram.com/bellflower_dental_group/
+  facebook: https://www.facebook.com/nudentistry
+  linkedin:
+  pinterest:
+  twitter: https://twitter.com/dentistrynu
+  yelp: 
+  youtube: 
+  instagram: https://www.instagram.com/nudentistry

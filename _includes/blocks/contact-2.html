@@ -23,7 +23,7 @@
       {% if block.hours.heading != '' %}
         <div>
           <div class="uk-card uk-card-default uk-card-body uk-match uk-text-center uk-text-left@m uk-text-content">
-            <h3 class="uk-text-uppercase uk-letter-spacing-medium uk-margin-medium-top uk-h5 uk-text-muted">{{ block.hours.heading }}</h3>
+            <h3 class="uk-text-uppercase uk-letter-spacing-medium uk-margin-medium-top uk-h5 uk-text-primary">{{ block.hours.heading }}</h3>
             <ul class="uk-list uk-text-medium uk-margin-large-bottom uk-margin-medium-top">
               {% for item in block.hours.hours %}
                 <li>{{ item }}</li>
@@ -57,7 +57,7 @@
       {% if block.address.heading != '' %}
         <div>
           <div class="uk-card uk-card-default uk-card-body uk-match uk-text-center uk-text-right@m uk-text-content">
-            <h3 class="uk-text-uppercase uk-letter-spacing-medium uk-margin-medium-top uk-h5 uk-text-muted">{{ block.address.heading }}</h3>
+            <h3 class="uk-text-uppercase uk-letter-spacing-medium uk-margin-medium-top uk-h5 uk-text-primary">{{ block.address.heading }}</h3>
             <address class="uk-text-medium uk-margin-large-bottom uk-margin-medium-top">{{ block.address.address | markdownify }}</address>
           </div>
         </div>

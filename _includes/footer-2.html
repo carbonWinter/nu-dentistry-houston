@@ -5,7 +5,7 @@
         <a class="uk-logo" href="{{ "/" | relative_url }}">
           {% if site.data.options.logo_light != '' or site.data.options.logo_dark != '' %}
             {% if site.data.options.logo_light != '' %}
-              <img class="uk-logo-inverse" src="{{ site.data.options.logo_light | absolute_url }}" alt="{{ site.title }}">
+              <img class="uk-logo-inverse uk-margin-auto" src="{{ site.data.options.logo_light | absolute_url }}" alt="{{ site.title }}">
             {% endif %}
             {% if site.data.options.logo_dark != '' %}
               <img src="{{ site.data.options.logo_dark | absolute_url }}" alt="{{ site.title }}">

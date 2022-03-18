@@ -5,7 +5,7 @@
   {%- endif -%}
   <div class="uk-container uk-position-relative">
 
-    {% if block.heading != empty or block.text != empty %}
+    {% if block.heading and block.heading != empty %}
       <div class="uk-margin-medium-bottom uk-container-small{% if block.align == 'center' %} uk-margin-auto{% endif %} uk-text-{{ block.align | default: 'left' }} uk-{{ block.color | default: 'dark' }}" data-uk-scrollspy="cls: uk-animation-slide-bottom; repeat: true">
         {% if block.image != empty %}
           <img class="uk-margin-medium-bottom" data-src="{% if block.image contains 'http' %}{{ block.image }}{% else %}{{ block.image | absolute_url }}{% endif %}" data-width data-height src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw==" data-uk-img alt="{{ block.heading }}">

@@ -25,11 +25,18 @@
     {% for card in block.cards %}
       {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
       <div class="uk-flex uk-flex-middle uk-grid-large uk-child-width-1-2@m uk-{{ block.color | default: 'dark' }}" data-uk-grid>
-        <div>
-          <h3 class="uk-h2 uk-margin-remove">{{ card.heading }}</h3>
-          {% if card.text != empty %}
-            <div class="uk-margin-top uk-text-content">{{ card.text | markdownify }}</div>
-          {% endif %}          
+        <div class="uk-flex uk-flex-column">
+          <div class="uk-margin-bottom">
+            <h3 class="uk-h2 uk-margin-remove">{{ card.heading }}</h3>
+            {% if card.text != empty %}
+              <div class="uk-margin-top uk-text-content">{{ card.text | markdownify }}</div>
+            {% endif %}
+          </div>
+          {% if card.button.url != empty %}
+            <div class="uk-margin-auto-top">
+              <a class="uk-button uk-link-primary uk-button-link" href="{% if card.button.url contains 'http' %}{{ card.button.url }}{% else %}{{ card.button.url | relative_url }}{% endif %}">{{ card.button.text }}</a>
+            </div>
+          {% endif %}            
         </div>
         <div class="uk-text-center{% if thecycle == 'odd' %} uk-flex-first@m{% endif %}">
           {% if card.image != empty %}
