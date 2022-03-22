@@ -35,7 +35,7 @@ seo_title: "Dental Emergency"
 permalink: "/houston-tx/emergency-dentistry/emergency-dentistry/"
 description: "When you’re in tooth pain, you need fast, efficient, and careful dentists. Emergency dentistry in Houston, TX doesn’t have to be stressful."
 keywords:
-  emergency dentistry, emergency dentistry houston, dental emergency, tooth extraction, wisdom teeth, emergency dentist, cavity, tooth abscess, tooth decay, to...
+  emergency dentistry, emergency dentistry houston, dental emergency, tooth extraction, wisdom teeth, emergency dentist, cavity, tooth abscess, tooth decay
 sticky_cta: false
 offer:
   heading: FREE Gentle Cleaning
