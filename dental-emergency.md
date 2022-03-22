@@ -7,7 +7,7 @@ header:
     background_color: "#E2E2E2"
     overlay: color
     overlay_opacity: 0.4
-    background_image: "/uploads/emergency-dentistry-urgent-dental-care-bellflower-dental-bellflower-ca-hero.jpg"
+    background_image: "/uploads/dental-emergency-nu-dentistry-houston-tx-hero.jpg"
     background_video_file: ""
     background_slider: []
     gradient: ""
@@ -22,18 +22,20 @@ header:
     heading: ""
     text: ""
   page_navigation:
-    - text: Watch Video
+    - text: DENTAL EMERGENCY SIGNS
       id: "2"
-    - text: Our Commitment
-      id: "4"
-    - text: Frequently Asked Questions
+    - text: FREQUENTLY ASKED QUESTIONS
       id: "5"
+    - text: COMFORT OPTIONS
+      id: "4"
+    - text: TOOTH EXTRACTIONS
+      id: "3"      
 title: Dental Emergency
 seo_title: "Dental Emergency"
-permalink: "/bellflower-ca/emergency-dentistry/dental-emergency/"
-description: ""
+permalink: "/houston-tx/emergency-dentistry/emergency-dentistry/"
+description: "When you’re in tooth pain, you need fast, efficient, and careful dentists. Emergency dentistry in Houston, TX doesn’t have to be stressful."
 keywords:
-  Emergency Dentistry, emergency dentistry Bellflower, dental emergency, tooth extraction, wisdom teeth, emergency dentist, cavity, tooth abscess, tooth decay, tooth infection, chipped tooth, cracked tooth, toothache relief, emergency dental care, emergency dental services
+  emergency dentistry, emergency dentistry houston, dental emergency, tooth extraction, wisdom teeth, emergency dentist, cavity, tooth abscess, tooth decay, to...
 sticky_cta: false
 offer:
   heading: FREE Gentle Cleaning
@@ -43,60 +45,75 @@ blocks:
   - template: text-1
     block: text-1
     background:
-      color: default
+      color: dark
       overlay:
         opacity: 0.5
         color: ""
       image: ""
       video: ""
     heading_tag: H1
-    color: dark
+    color: light
     align: left
     columns: "1"
     superheading: 
-    heading: Emergency Dental Services Available 24/7
-    text: We offer our patients a 24/7 emergency hotline to schedule appointments for a toothache in Bellflower
-    content: You can experience a traumatic toothache at any time, even when you least expect it. Our team at Bellflower Dental Group knows this to be true, which is why we have an emergency hotline available for you to call 24 hours a day, 7 days a week. We want to make sure you get out of pain as quickly as possible, and you can trust us to be there to give you the quality customer care you need. You are able to call the emergency hotline at any time to schedule an appointment. Our staff will do whatever it takes to make sure we get you in as soon as possible. Your oral health is our number one priority. To reach us at any time during a dentist emergency in Bellflower, call us. We are ready and waiting to help!
+    heading: QUICK AND EASY EMERGENCY DENTISTRY IN HOUSTON, TX
+    text: WE MAKE SURE WE’RE HERE WHEN YOU NEED US.
+    content: 
+      Despite our best efforts and oral hygiene habits, dental emergencies can still happen when we least expect it. Teeth can become injured in an accident or from biting on hard objects. Fillings, crowns, or other devices might break or fall out. Teeth can become severely infected and put you at risk for serious health problems. If you're suffering from a dental injury or pain, give Nu Dentistry a call! Dental emergencies can be scary and painful, but we're here to alleviate both your pain and your anxiety. We offer efficient, first-rate dental service, putting your mind at ease every step of the way. 
+
+      As with many emergencies, time is of the essence. Some dental pain is severe and requires speedy medical attention to prevent further complications. We'll schedule your appointment right away, even on Saturday. We believe that you shouldn't have to wait for toothache relief. At Nu Dentistry, we make sure that our patients receive their emergency dental care within minutes of arriving, even with short or little notice.
+
+      Our fantastic team of emergency dentists do everything they can to see you as quickly as possible. We can't stress enough that dental emergencies require swift action so that larger, more serious problems don't occur. We are a world-class dental specialty center prepared to treat your dental emergencies, whatever they may entail. Call us today at (832) 916-4144 for immediate service!
     lists: []
-  - template: video-2
-    block: video-2
-    background:
-      color: primary
-      overlay:
-        opacity: "0.7"
-        color: ""
-      image: ""
-      video: ""
-    color: dark
-    align: left
-    superheading: 
-    heading:
-    text:
-    video_file: "/uploads/Emergency_Dentist_in_Bellflower_Get_Help_Quickly.mp4"
-    video_image: ""
-    appointment_button: false
-    button:
-      text: ""
-      url: ""
-      blank: false
   - template: text-1
     block: text-1
     background:
-      color: white
+      color: dark
+      overlay:
+        opacity: 0.5
+        color: ""
+      image: ""
+      video: ""
+    heading_tag: H1
+    color: light
+    align: left
+    columns: "1"
+    superheading: 
+    heading: WHAT IS A DENTAL EMERGENCY?
+    text: NU DENTISTRY MAKES SURE YOU NEVER PUT OFF A NECESSARY PROCEDURE.
+    content: |-
+      It can be hard to tell sometimes whether something is truly an 'emergency.' Do you need immediate treatment, or can it wait until you schedule an appointment? If you experience any of these symptoms, please call our office at (832) 916-4144:
+
+      - **Oral sensitivity.** Although minor sensitivity can be addressed at a regular appointment, a sudden onset of severe sensitivity may indicate infection.
+      - **Severe tooth, gum, or jaw pain.** Acute pain can indicate multiple dental issues. Toothaches are a sign of infection, especially when accompanied by a fever, earache, or pressure.
+      - **Broken or chipped tooth.** These injuries need immediate evaluation to keep from getting infected. Jagged teeth edges can also cause sores and abrasions in the mouth.
+      - **Knocked out tooth.** If you're missing a tooth, treatment should be received as soon as possible. For the tooth's best chance of survival, gather as many pieces as possible and only pick up the tooth by the crown, never the root.
+      - **Dislodged or loose tooth.** Loose teeth in adults are a sign of either tooth injury or infection.
+      - **Tooth abscess.** When a tooth infection becomes bad enough, the tooth swells and develops a pocket of pus known as an abscess. They're very serious and can spread to other areas of your jaw, head, and neck if left untreated.
+      - **Decay and cavities.** If you're in extreme pain and know you have tooth decay or a cavity, please call our office so we can halt or treat any possible infections.
+      - **Excessive bleeding gums.** A little bit of blood after flossing or a dental exam is typical. It can be a sign of gingivitis or early **periodontal disease**. However, if the gums won't stop bleeding, this may indicate a severe injury or advanced gum disease.
+
+    lists: []
+  - template: text-1
+    block: text-1
+    background:
+      color: dark
       overlay:
         opacity: 0.5
         color: ""
       image: ""
       video: ""
     heading_tag: H2
-    color: dark
+    color: light
     align: left
-    columns: "1"
+    columns: "2"
     superheading: 
-    heading: Get Out of Pain…Fast!
-    text: When you have a toothache in Bellflower, our knowledgeable and gentle staff will get you out of pain quickly
-    content:
-      One of the most important pieces of information about any dental emergency is that it is likely your pain will only get worse if you do not seek professional treatment right away. We want to help you do what’s necessary to keep your teeth and gums healthy. With any kind of toothache or gum pain, there could be several causes, which could require several different treatments. Once you call us to schedule your appointment, we can then begin helping you to a speedy recovery. During your visit, we will examine your mouth to determine the source and reason for your pain. After we know the cause, we can begin the appropriate treatment. Our team is fully trained and qualified to give you the best treatment available in Bellflower and the surrounding areas. Whether you need a root canal*, deep cleaning, treatment for gum disease, filling, extraction**, or other treatment, we’ve got you covered. Please do not rely on time to make it better. Allow us to care for you. Call us to schedule an appointment to treat a toothache in Bellflower.
+    heading: DO I NEED A TOOTH EXTRACTION?
+    text: WE MAKE SURE YOU’RE ALWAYS PREPARED, EVEN WITH SERIOUS PROCEDURES.
+    content: |-
+      At Nu Dentistry, we do our best to save your teeth, but that's not always possible. Sometimes a tooth has decayed too much or fractured too severely for repairs like fillings, root canals, and frequent deep cleanings to be an option. Other times, extra or crowded teeth block emerging teeth from coming out without ruining the alignment of your arch. During cases like these, the best option to protect the teeth and bone around it is to have the tooth extracted. There are two kinds of extractions: a simple extraction and a surgical extraction. Simple extractions are for teeth visible above the gum line, and they can be done by loosening the tooth with an elevator tool and removing it with forceps.
+
+      Surgical extractions are done on teeth either broken beneath or un-emerged from the gums. This type requires an incision into the gums to entirely remove the submerged tooth. While this procedure may seem scary at first, our dentists make sure that your operation is virtually painless. We offer multiple anesthetic and sedation options, guaranteeing that you're always comfortable during your treatment. We offer many services, such as implants, dentures, and bridges, that can help fill the gap and restore your missing tooth. We want to make sure you're always happy with your smile.
     lists: []
 
   - template: cta-1
@@ -104,23 +121,23 @@ blocks:
     color: light
     align: center
     background:
-      image: "/uploads/bellflower-dental-group-we-love-our-patients.jpg"
+      image: "/uploads/comfort-3-lg.jpg"
       color: default
       video: ""
       overlay:
         color: "#000000"
-        opacity: "0.65"
+        opacity: "0.8"
     overlay_size: center
-    heading: "24/7 Emergency Scheduling Makes It Easy"
-    text: Our team is available 24/7 so you can schedule an appointment with your favorite dentists in Bellflower
-    superheading: "Committed To You, Bellflower"
+    heading: "WE’RE ALWAYS HERE FOR YOU"
+    text: 
+    superheading: "PAINFUL PROBLEMS DON’T HAVE TO MEAN PAINFUL SOLUTIONS."
     button:
       text: Request an appointment
       url: ""
       blank: false
-    image: "/uploads/icon-heart.png"
+    image: "/uploads/tooth-heart-lightBlue.svg"
     content:
-      We are always here to take your call. We have staff members available 24/7 to schedule your appointments and give you emergency dental advice. Whether you are in excessive pain or just remembered to schedule your cleaning at 1 a.m. – we are here for you! We are available to answer your questions 24/7. Call us now.
+      When you need emergency dental services, you deserve a team who stays calm under pressure and is unrelenting in giving you the best service possible. We're Nu Dentistry, and we're fully committed to your comfort even when times are tough. We understand that you might be nervous about your treatment, but we're here to put your fears at rest. Everything in our private patient suites is designed to put you at ease, from luxury entertainment to sedation options available upon request. Our dentists go above and beyond to achieve your complete dental satisfaction, no matter your needs.
     appointment_button: true
     section: ""
     
@@ -135,25 +152,25 @@ blocks:
       video: ""
     color: light
     faqs:
-      - heading: How can I tell if I have a dental emergency?
+      - heading: IS A CRACKED TOOTH AN EMERGENCY?
         content:
-          A dental emergency isn't always easy to recognize. The most common signs of a dental emergency are severe pain in the gums, sensitivity to hot or cold foods, loss of appetite for several days, tooth infection, tooth abscess, and swelling around the mouth. Make an appointment with your emergency dentist at Bellflower as soon as possible if you experience any of these symptoms.
-      - heading: Can brushing your teeth help toothache?
+          A cracked tooth is only an emergency if it is extremely painful. Pain can be a sign that the inside is damaged and the tooth fractured. If a tooth is fractured badly enough, it may not be salvageable. If these symptoms apply to you, please contact us immediately.
+      - heading: WHEN SHOULD A TOOTH BE REMOVED?
         content:
-          Toothaches can be caused by a variety of factors. It could be caused by tooth decay, a tooth infection, or even sensitivity. Food stuck between your teeth is a common cause of toothache. The act of brushing your teeth will help dislodge food particles and provide toothache relief.
-      - heading: What causes gum inflammation?
+          A dentist must pull the tooth to stop the spread of infection. A tooth might also need extraction if teeth are overcrowded or incoming teeth are impacted and unable to emerge. Overcrowding often happens with incoming wisdom teeth.
+      - heading: HOW DO DENTISTS TREAT GINGIVITIS?
         content:
-          Gum inflammation is the most common dental disease in the world, it affects more than half of Americans at some point. It's caused by bacteria growing in plaque on teeth and below gums. If not treated, gum inflammation can lead to tooth loss or even heart problems. 
-      - heading: What is considered an emergency tooth extraction?
+          Gingivitis occurs when plaque and tartar build-up around and under the gums, causing infection. Depending on the severity, treatment will include a regular dental cleaning or deep cleaning. A deep cleaning involves scaling teeth clean both above and below the gumline, respectively, of hardened build-up. Periodontal disease must be treated with deep cleaning. 
+      - heading: ARE YOU SEDATED FOR A ROOT CANAL?
         content:
-          Tooth extraction is an emergency if it's due to a serious injury or infection, but the most common reasons for getting teeth pulled are because they're impacted, meaning that there was no space in the mouth for them, too loose and sensitive, or just badly decayed.         
-      - heading: What qualifies as emergency dental care?
+          While only local anesthesia is necessary when performing a root canal, you can opt for sedation with the procedure on request. Our fully trained dentists can sedate you during the procedure, either with oral conscious sedation or IV sedation. For anxious patients, this can soothe nervousness and give the best possible treatment experience.        
+      - heading: SHOULD I SAVE MY TOOTH OR PULL IT?
         content:
-          Some of the most common emergencies can include toothaches or pain, a cracked tooth, tooth decay, a chipped tooth, tooth infection, loss of a crown or filling due to an injury or accident, and a tooth abscess. The sooner you are able to get in touch with your dentist for help when an emergency occurs, the better chance you have at fixing it. If left untreated for too long, some problems could escalate into more serious conditions.
-      - heading: Can a broken molar tooth be repaired?
+          We always do our best to save our patients' teeth because natural teeth are stronger and keep their neighbors from shifting. Keeping those teeth will save a lot of time, discomfort, and money in the long run. However, there are times when a tooth has fractured or decayed past the point of saving, even with a root canal, and an extraction is necessary.
+      - heading: WHAT HAPPENS IF YOU NEVER GET YOUR WISDOM TEETH PULLED OUT?
         content:
-          An endodontic procedure can sometimes be used to repair a broken tooth. The procedure involves removing the broken bone pieces and filling any gaps left behind with root canal sealer. During the healing process, dentists may prescribe antibiotics to prevent infection and pain medication to manage discomfort.
-    superheading: "// Emergency Answers"
+          Wisdom teeth are often extracted when they either don't fully emerge from the gum or if they stay fully submerged. Keeping your wisdom teeth in these circumstances can lead to infection or the development of oral cysts, which can damage your gums and bone.
+    superheading: ""
     heading: Frequently Asked Questions
     text: 
 ---

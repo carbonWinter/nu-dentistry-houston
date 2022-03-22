@@ -29,104 +29,96 @@ menu_right:
   - text: Dr. Justine Tanjaya, DDS
     url: "/houston-tx/our-doctors/dr-tanjaya/"
     blank: false  
-- text: Cosmetic Dentistry
-  url: ''
-  style: link
-  blank: false
-  dropdown:
-  - text: Invisalign
-    url: "/bellflower-ca/cosmetic-dentistry/invisalign/"
-    blank: false
-  - text: Teeth Straightening
-    url: "/bellflower-ca/cosmetic-dentistry/teeth-straightening-braces/"
-    blank: false
-  - text: Aesthetic Dentistry
-    url: "/bellflower-ca/cosmetic-dentistry/aesthetic-dentistry/"
-    blank: false
-  - text: Dental Veneers
-    url: "/bellflower-ca/cosmetic-dentistry/porcelain-veneers/"
-    blank: false
-  - text: Pro Teeth Whitening
-    url: "/bellflower-ca/cosmetic-dentistry/pro-teeth-whitening/"
-    blank: false
-- text: Emergency Dentistry
+
+- text: EMERGENCY DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
   - text: Dental Emergency
-    url: "/bellflower-ca/emergency-dentistry/dental-emergency/"
+    url: "/houston-tx/emergency-dentistry/emergency-dentistry/"
     blank: false
   - text: Tooth Extraction
-    url: "/bellflower-ca/emergency-dentistry/tooth-extraction/"
+    url: "/houston-tx/emergency-dentistry/tooth-extraction/"
     blank: false
   - text: Gum Disease
-    url: "/bellflower-ca/emergency-dentistry/gum-disease-gingivitis/"
+    url: "/houston-tx/emergency-dentistry/gingivitis/"
     blank: false
   - text: Root Canal
-    url: "/bellflower-ca/emergency-dentistry/endodontic-root-canal/"
+    url: "/houston-tx/emergency-dentistry/root-canal/"
     blank: false
-- text: General Dentistry
+- text: GENERAL DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: Exam and Cleaning
-    url: "/bellflower-ca/general-dentistry/cleaning-and-exam/"
+  - text: Cleaning & Exam
+    url: "/houston-tx/general-dentistry/dental-cleaning/"
     blank: false
-  - text: Kids Densitry
-    url: "/bellflower-ca/general-dentistry/childrens-dentistry/"
+  - text: Cavity Fillings
+    url: "/houston-tx/restorative-dentistry/cavity-fillings/"
     blank: false
-- text: Resources
+- text: RESTORATIVE DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: Friendly Staff
-    url: "/bellflower-ca/friendly-staff/"
+  - text: Implants
+    url: "/houston-tx/restorative-dentistry/dental-implants/"
     blank: false
-  - text: New Patient Forms
-    url: "/bellflower-ca/new-patient-forms/"
-    blank: false
-  - text: Contact Us
-    url: "/contact-us/"
-    blank: false
-  - text: Patient Reviews
-    url: "/patient-reviews/"
-    blank: false
-- text: Restorative Dentistry
-  url: ''
-  style: link
-  blank: false
-  dropdown:
-  - text: Cavities & Fillings
-    url: "/bellflower-ca/restorative-dentistry/cavity-fillings/"
-    blank: false
-  - text: Dental Implants
-    url: "/bellflower-ca/restorative-dentistry/dental-implants/"
-    blank: false
-  - text: Crowns & Bridges
-    url: "/bellflower-ca/restorative-dentistry/tooth-crown/"
+  - text: Crown & Bridge
+    url: "/houston-tx/restorative-dentistry/tooth-crown/"
     blank: false
   - text: Dentures
-    url: "/bellflower-ca/restorative-dentistry/dentures/"
+    url: "/houston-tx/restorative-dentistry/dentures/"
     blank: false
-- text: Specialty Dentistry
+- text: COSMETIC DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: TMJ
-    url: "/bellflower-ca/specialty-dentistry/tmj-jaw-pain/"
+  - text: Aesthetic Dentistry
+    url: "/houston-tx/cosmetic-dentistry/aesthetic-dentistry/"
     blank: false
-  - text: Sleep Dentistry
-    url: "/bellflower-ca/specialty-dentistry/dental-sedation/"
+  - text: Invisalign
+    url: "/houston-tx/cosmetic-dentistry/invisalign/"
     blank: false
-  - text: Sleep Apnea
-    url: "/bellflower-ca/specialty-dentistry/sleep-apnea/"
+  - text: Veneers
+    url: "/houston-tx/cosmetic-dentistry/porcelain-veneers/"
     blank: false
-  - text: Oral Surgery
-    url: "/bellflower-ca/specialty-dentistry/oral-surgery/"
+  - text: Pro Teeth Whitening
+    url: "/houston-tx/cosmetic-dentistry/pro-teeth-whitening/"
+    blank: false
+- text: SPECIALTY DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Sedation Dentistry
+    url: "/houston-tx/specialty-dentistry/sedation-dentistry/"
+    blank: false
+- text: ADDL RESOURCES
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Contact Us
+    url: "/new-patient-forms/#contact"
+    blank: false    
+  - text: New Patient Forms
+    url: "/new-patient-forms/"
+    blank: false
+  - text: Dental Insurance
+    url: "/dental-insurance/"
+    blank: false
+  - text: Financing
+    url: "/dental-financing/"
+    blank: false
+  - text: About
+    url: "/about-us/"
+    blank: false
+  - text: Our Dental Blog
+    url: "/dentistry-blog/"
     blank: false
 menu_mobile:
 - text: Our Doctors
@@ -153,102 +145,93 @@ menu_mobile:
     url: "/houston-tx/our-doctors/dr-tanjaya/"
     blank: false  
 
-- text: Cosmetic Dentistry
-  url: ''
-  style: link
-  blank: false
-  dropdown:
-  - text: Invisalign
-    url: "/bellflower-ca/cosmetic-dentistry/invisalign/"
-    blank: false
-  - text: Teeth Straightening
-    url: "/bellflower-ca/cosmetic-dentistry/teeth-straightening-braces/"
-    blank: false
-  - text: Aesthetic Dentistry
-    url: "/bellflower-ca/cosmetic-dentistry/aesthetic-dentistry/"
-    blank: false
-  - text: Dental Veneers
-    url: "/bellflower-ca/cosmetic-dentistry/porcelain-veneers/"
-    blank: false
-  - text: Pro Teeth Whitening
-    url: "/bellflower-ca/cosmetic-dentistry/pro-teeth-whitening/"
-    blank: false
-- text: Emergency Dentistry
+- text: EMERGENCY DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
   - text: Dental Emergency
-    url: "/bellflower-ca/emergency-dentistry/dental-emergency/"
+    url: "/houston-tx/emergency-dentistry/emergency-dentistry/"
     blank: false
   - text: Tooth Extraction
-    url: "/bellflower-ca/emergency-dentistry/tooth-extraction/"
+    url: "/houston-tx/emergency-dentistry/tooth-extraction/"
     blank: false
   - text: Gum Disease
-    url: "/bellflower-ca/emergency-dentistry/gum-disease-gingivitis/"
+    url: "/houston-tx/emergency-dentistry/gingivitis/"
     blank: false
   - text: Root Canal
-    url: "/bellflower-ca/emergency-dentistry/endodontic-root-canal/"
+    url: "/houston-tx/emergency-dentistry/root-canal/"
     blank: false
-- text: General Dentistry
+- text: GENERAL DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: Exam and Cleaning
-    url: "/bellflower-ca/general-dentistry/cleaning-and-exam/"
+  - text: Cleaning & Exam
+    url: "/houston-tx/general-dentistry/dental-cleaning/"
     blank: false
-  - text: Kids Densitry
-    url: "/bellflower-ca/general-dentistry/childrens-dentistry/"
+  - text: Cavity Fillings
+    url: "/houston-tx/restorative-dentistry/cavity-fillings/"
     blank: false
-- text: Resources
+- text: RESTORATIVE DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: Friendly Staff
-    url: "/bellflower-ca/friendly-staff/"
+  - text: Implants
+    url: "/houston-tx/restorative-dentistry/dental-implants/"
     blank: false
-  - text: New Patient Forms
-    url: "/bellflower-ca/new-patient-forms/"
-    blank: false
-  - text: Contact Us
-    url: "/contact-us/"
-    blank: false
-  - text: Patient Reviews
-    url: "/patient-reviews/"
-    blank: false
-- text: Restorative Dentistry
-  url: ''
-  style: link
-  blank: false
-  dropdown:
-  - text: Cavities & Fillings
-    url: "/bellflower-ca/restorative-dentistry/cavity-fillings/"
-    blank: false
-  - text: Dental Implants
-    url: "/bellflower-ca/restorative-dentistry/dental-implants/"
-    blank: false
-  - text: Crowns & Bridges
-    url: "/bellflower-ca/restorative-dentistry/tooth-crown/"
+  - text: Crown & Bridge
+    url: "/houston-tx/restorative-dentistry/tooth-crown/"
     blank: false
   - text: Dentures
-    url: "/bellflower-ca/restorative-dentistry/dentures/"
+    url: "/houston-tx/restorative-dentistry/dentures/"
     blank: false
-- text: Specialty Dentistry
+- text: COSMETIC DENTISTRY
   url: ''
   style: link
   blank: false
   dropdown:
-  - text: TMJ
-    url: "/bellflower-ca/specialty-dentistry/tmj-jaw-pain/"
+  - text: Aesthetic Dentistry
+    url: "/houston-tx/cosmetic-dentistry/aesthetic-dentistry/"
     blank: false
-  - text: Sleep Dentistry
-    url: "/bellflower-ca/specialty-dentistry/dental-sedation/"
+  - text: Invisalign
+    url: "/houston-tx/cosmetic-dentistry/invisalign/"
     blank: false
-  - text: Sleep Apnea
-    url: "/bellflower-ca/specialty-dentistry/sleep-apnea/"
+  - text: Veneers
+    url: "/houston-tx/cosmetic-dentistry/porcelain-veneers/"
     blank: false
-  - text: Oral Surgery
-    url: "/bellflower-ca/specialty-dentistry/oral-surgery/"
+  - text: Pro Teeth Whitening
+    url: "/houston-tx/cosmetic-dentistry/pro-teeth-whitening/"
+    blank: false
+- text: SPECIALTY DENTISTRY
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Sedation Dentistry
+    url: "/houston-tx/specialty-dentistry/sedation-dentistry/"
+    blank: false
+- text: ADDL RESOURCES
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Contact Us
+    url: "/new-patient-forms/#contact"
+    blank: false    
+  - text: New Patient Forms
+    url: "/new-patient-forms/"
+    blank: false
+  - text: Dental Insurance
+    url: "/dental-insurance/"
+    blank: false
+  - text: Financing
+    url: "/dental-financing/"
+    blank: false
+  - text: About
+    url: "/about-us/"
+    blank: false
+  - text: Our Dental Blog
+    url: "/dentistry-blog/"
     blank: false
