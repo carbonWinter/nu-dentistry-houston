@@ -6,6 +6,29 @@ background: "#000000"
 menu_left: []
 menu_center: []
 menu_right:
+- text: Our Doctors
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Dr. Ali Tameemi, DDS
+    url: "/houston-tx/our-doctors/dr-tameemi/"
+    blank: false
+  - text: Dr. Samir Alrajab, DDS
+    url: "/houston-tx/our-doctors/dr-alrajab/"
+    blank: false
+  - text: Dr. Alireza Hourfar
+    url: "/houston-tx/our-doctors/dr-hourfar/"
+    blank: false
+  - text: Dr. Kathleen Akers, DDS
+    url: "/houston-tx/our-doctors/dr-akers/"
+    blank: false
+  - text: Dr. Erin Loggins, DDS
+    url: "/houston-tx/our-doctors/dr-loggins/"
+    blank: false
+  - text: Dr. Justine Tanjaya, DDS
+    url: "/houston-tx/our-doctors/dr-tanjaya/"
+    blank: false  
 - text: Cosmetic Dentistry
   url: ''
   style: link
@@ -106,6 +129,30 @@ menu_right:
     url: "/bellflower-ca/specialty-dentistry/oral-surgery/"
     blank: false
 menu_mobile:
+- text: Our Doctors
+  url: ''
+  style: link
+  blank: false
+  dropdown:
+  - text: Dr. Ali Tameemi, DDS
+    url: "/houston-tx/our-doctors/dr-tameemi/"
+    blank: false
+  - text: Dr. Samir Alrajab, DDS
+    url: "/houston-tx/our-doctors/dr-alrajab/"
+    blank: false
+  - text: Dr. Alireza Hourfar
+    url: "/houston-tx/our-doctors/dr-hourfar/"
+    blank: false
+  - text: Dr. Kathleen Akers, DDS
+    url: "/houston-tx/our-doctors/dr-akers/"
+    blank: false
+  - text: Dr. Erin Loggins, DDS
+    url: "/houston-tx/our-doctors/dr-loggins/"
+    blank: false
+  - text: Dr. Justine Tanjaya, DDS
+    url: "/houston-tx/our-doctors/dr-tanjaya/"
+    blank: false  
+
 - text: Cosmetic Dentistry
   url: ''
   style: link

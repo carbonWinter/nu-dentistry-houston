@@ -23,9 +23,9 @@ header:
     text: ""
   page_navigation: []
 title: Home
-seo_title: ""
-description: ""
-keywords: "dentist, dentist Bellflower, Ca, dentists, emergency dentist, family dentist, dentist office, affordable dentist, dentist appointment, dental care, emergency dental care, best dentist, dental office"
+seo_title: "Dentist Houston TX | Cosmetic & Family Dentist in Houston TX"
+description: "The Dentists in Houston Texas provide cosmetic, family & implant dentistry. Call our Houston TX dentist office at 832-916-4144 for all your Dental Needs."
+keywords: "dentistry, houston, dentist emergency, dentist hygienist, dentist office, dentist urgent care, dentist open saturday, dentist with sedation, dentist veneers"
 sticky_cta: false
 offer:
   heading: ""
@@ -281,7 +281,7 @@ blocks:
       video: ""
       overlay:
         color: "#000000"
-        opacity: "0.65"
+        opacity: "0.8"
     overlay_size: center
     heading: "YOUR BEST DENTAL EXPERIENCE EVERY TIME"
     text: 
