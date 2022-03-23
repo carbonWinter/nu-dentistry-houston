@@ -38,8 +38,8 @@ keywords:
   emergency dentistry, emergency dentistry houston, dental emergency, tooth extraction, wisdom teeth, emergency dentist, cavity, tooth abscess, tooth decay
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1

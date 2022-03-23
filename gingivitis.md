@@ -38,8 +38,8 @@ keywords:
   gingivitis spring texas, gum disease treatment, gum disease symptoms, signs of gum disease, what is gum disease, gum disease stages, gingivitis treatment, pe...
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1

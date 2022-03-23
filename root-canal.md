@@ -38,8 +38,8 @@ keywords:
   root canal, root canal houston, what is a root canal, do root canals hurt, root canal procedure, root canal cost, endodontist, root canal treatment, how long...
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1

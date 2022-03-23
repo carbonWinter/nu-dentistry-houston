@@ -7,7 +7,7 @@ header:
     background_color: "#E2E2E2"
     overlay: color
     overlay_opacity: 0.4
-    background_image: "/uploads/tooth-extraction-nu-dentistry-houston-tx-hero.jpg"
+    background_image: "/uploads/dentures-nu-dentistry-houston-tx-hero.jpg"
     background_video_file: ""
     background_slider: []
     gradient: ""
@@ -16,26 +16,26 @@ header:
   vertical_align: bottom
   color: light
   col_one:
-    heading: Tooth Extraction 
+    heading: Dentures 
     text: 
   col_two:
     heading: ""
     text: ""
   page_navigation:
-    - text: WISDOM TOOTH REMOVAL
+    - text: TYPES OF DENTURES
       id: "3"
     - text: FREQUENTLY ASKED QUESTIONS
       id: "5"
-    - text: COMFORT OPTIONS
+    - text: OUR DENTAL TEAM
       id: "4"
-    - text: TOOTH REPLACEMENT OPTIONS
+    - text: PARTIALS VS. BRIDGES
       id: "2"      
-title: Tooth Extraction
-seo_title: "Tooth Extraction"
-permalink: "/houston-tx/emergency-dentistry/tooth-extraction/"
-description: "In need of an emergency tooth extraction in Houston, TX? Nu Dentistry is the dental office to trust in Houston to remove broken, damaged teeth gently and eff..."
+title: Dentures
+seo_title: "Dentures"
+permalink: "/houston-tx/restorative-dentistry/dentures/"
+description: "Get a new lease on life and restore your smile with dentures! At NuDentistry, we offer partial and full denture options that change your life for the better."
 keywords:
-  tooth extraction spring texas, wisdom tooth extraction, tooth extraction cost, emergency tooth extraction, does tooth extraction hurt, wisdom tooth removal
+  dentures houston, affordable dentures, partial dentures, denture with implants, denture, denture repair, dentures cost, denture glue, denture adhesive, perma...
 sticky_cta: false
 offer:
   heading: 
@@ -56,20 +56,16 @@ blocks:
     align: left
     columns: "1"
     superheading: 
-    heading: PAINLESS TOOTH EXTRACTION IN HOUSTON IS POSSIBLE!
-    text: NU DENTISTRY MAKES YOUR EMERGENCY TOOTH REMOVAL A BREEZE.
+    heading: COMFORTABLE, AFFORDABLE DENTURES IN HOUSTON
+    text: IMPROVE YOUR LIFESTYLE WITH REMOVABLE DENTURES
     content: |-
-      When you have severe tooth pain, it can be a real dental emergency—and Nu Dentistry is here to help you through them all, including teeth extraction. While it may sound scary, our friendly, gentle dentists make sure you’re always relaxed in our office. There are 2 main types of tooth removal procedures:
+      Have you had one or more teeth extracted and are looking for a replacement? After having a tooth extracted, it’s important to find the right replacement option for you. Leaving your missing teeth as they are, including gaps, can have serious long-term problems. Facial muscle sagging, shifting of remaining teeth, and further tooth infection and loss often occur.
 
-      Simple extraction. A simple extraction is used to remove teeth that are visible. Once local anesthetic has properly numbed the area, your dentist will use a tool called an elevator to loosen your tooth and forceps to fully remove it from your gum.
+      Dentures are a solid choice, used by millions of Americans every day because they’re flexible to your individual needs. From partial to complete dentures, they can easily replace one or more extracted teeth—even your full set of teeth, top and bottom—meaning our denture dentists can always accommodate you. Our team guarantees that your new teeth will be great for you. We have them built using molds of your mouth so that they always fit the first time you wear them, and they look just as flawless and natural as you’d ever dreamed.
 
-      Surgical extraction. A surgical extraction is instead performed on teeth that are not visible, like fully submerged teeth or teeth that have broken off below the gumline. Our on-site oral surgeon will make an incision and extract your tooth directly from your gums. Since this method is more intensive, the surgeon will most likely give you a mix of local anesthetic and sedation, including oral or IV sedation. This ensures both your body and mind are relaxed and comfortable throughout your treatment.
+      See your quality of life skyrocket from the moment you receive your dentures. Benefits from choosing dentures include: a beautiful, natural-looking smile; improved and confident speech; fewer dietary restrictions; avoid facial sagging; boosted self-esteem; and functional and comfortable. Dentures are also easily removable, making upkeep and cleaning them uncomplicated and stress-free.
 
-      After your treatment, we’ll prepare you with aftercare instructions to ensure that your mouth stays healthy and heals quickly without any complications. Within a week or two of your procedure, new bone and gum tissue will fill the gap your tooth left behind.
-
-      At Nu Dentistry, we understand that you can’t always plan when you have a toothache or when your molars are coming in. That’s why if you need emergency tooth extraction, we’re on-call and ready for you. We do our best to ensure you’re in our patient suites within minutes of your arrival.
-
-      If you need to call our on-site staff to schedule an immediate appointment, call us now at (832) 916-4144.
+      If you need denture repair, our team is here to help. We’re fast and efficient, making sure you can leave our office with your mended and adjusted dentures in as quickly as one appointment. At Nu Dentistry, we believe no one should go without a proper teeth replacement. If you’re looking forward to your new life with dentures, call our office today!
     lists: []
   - template: pingpong-2
     block: pingpong-2
@@ -82,45 +78,53 @@ blocks:
       video: ''
     color: dark
     align: left
-    superheading: HOUSTON TEXAS PREMIER DENTISTRY //
-    heading: TOOTH REPLACEMENT OPTIONS
-    text: LET US HELP YOU PRESERVE YOUR SMILE AFTER YOUR EXTRACTION.
+    superheading: NU DENTISTRY, HOUSTON, TEXAS //
+    heading: TYPES OF DENTURES
+    text: WE WANT YOU TO CHOOSE THE OPTION THAT’S RIGHT FOR YOU
     copy: |- 
-      After your tooth has been fully extracted, it's crucial to choose the replacement that works best for you. Leaving a missing tooth alone for too long can lead to serious complications to your dental health and shorten the longevity of your smile.
-
-      These are the most common tooth replacement options:
+      Nu Dentistry is dedicated to your dental satisfaction, which is why we offer multiple denture options for our patients:
     image: ""
     cards:
-    - heading: DENTAL IMPLANTS
+    - heading: COMPLETE DENTURES
       copy: |-
-        **Dental implants** are a great option! They consist of 3 main parts: an implant, a crown, and an abutment. The implant is a metal post that is surgically attached and fused to the jawbone, acting as an artificial root for the replacement tooth. The crown is what we think of as the "tooth" portion. It feels and functions like a normal tooth, but is often made of sturdy porcelain. The abutment is the connector between the implant and crown, keeping the whole piece together like glue. Implants are a bit costly, but they last a long time, are easy to maintain and clean and preserve the bone in your jaw.
-      image: /uploads/nu-dentistry-houston-tx-tooth-extraction-replacement-implant.jpg
+        Complete dentures are what most people think of as dentures. These are removable false teeth that replace every tooth in your mouth or arch. With a gum-colored plastic base, traditional dentures hold a full set of porcelain or plastic teeth. They are custom-tailored for your mouth using molds made following your denture extraction. Your dentures should fit perfectly to your gums, staying in place even without denture adhesive.
+      image: /uploads/buena-park-restorative-dentistry-dentures-complete.jpg
       overlay:
         color: ''
         opacity: 0.7
       button:
         text: Learn More
         url: ''
-    - heading: FIXED BRIDGE
+    - heading: PARTIAL DENTURES
       copy: 
-        For dental bridges, the dentist shaves down the two teeth surrounding the gap of a missing tooth and caps them with a crown. They're attached to a false replacement tooth to act as a bridge between them, keeping the teeth from shifting into the open space. Bridges are an especially good choice for people who have had more than one tooth removed in the same area, as they can replace more than four teeth at a time if necessary. Bridges, however, can put a strain on the healthy capped teeth, so dental implants are superior to this more affordable option.
-      image: /uploads/nu-dentistry-houston-tx-tooth-extraction-replacement-bridge.jpg
+        Not everyone needs to replace most or all of their teeth. For patients who only need replacements for a few teeth in the same region of the mouth, a partial denture is a great option. The replacement teeth, often made of acrylic or porcelain, will be attached to a pink plastic base similar to regular complete dentures. Partials use metal clasps to secure themselves onto the teeth on either side of the missing tooth gap, keeping them in place while speaking and eating.
+      image: /uploads/buena-park-restorative-dentistry-dentures-partial.jpg
       overlay:
         color: ''
         opacity: 0.7
       button:
         text: Learn More
         url: ''
-    - heading: REMOVABLE PARTIAL DENTURE
+    - heading: IMMEDIATE DENTURES
       copy: 
-        As the name suggests, these dentures are used to replace some missing teeth rather than all of them. The replacements are connected to a pink base that fits perfectly between your natural teeth. Some have clasps that can attach to the teeth surrounding the gap for extra security. The whole piece is completely removable, making it easy to clean.
-      image: /uploads/nu-dentistry-houston-tx-tooth-extraction-replacement-partial.jpg
+        Immediate dentures, or temporary dentures, are false teeth that are made before your teeth extraction. With immediate dentures, you can walk away from your removal with brand new pearly whites. The molds are made before your extraction, rather than after as what happens with permanent dentures. However, because your bones and gums may shift over time, you may need your immediate dentures either adjusted or replaced.
+      image: /uploads/buena-park-restorative-dentistry-dentures-immediate.jpg
       overlay:
         color: ''
         opacity: 0.7
       button:
         text: Learn More
         url: ''
+    - heading: IMPLANT-SUPPORTED
+      copy: 
+        Patients who want a more stabilized bite and speech can choose to have implant-supported dentures. Implants are metal posts or screws anchored and fused to your jawbone through surgery. They’re connected to your dentures by a piece called an abutment. While the implants are not removable, your replacement teeth are, making them just as easy to maintain and clean as other dentures. A denture with implants is also extremely natural-looking and long-lasting.
+      image: /uploads/buena-park-restorative-dentistry-implants-denture-implants.jpg
+      overlay:
+        color: ''
+        opacity: 0.7
+      button:
+        text: Learn More
+        url: ''        
   - template: text-1
     block: text-1
     background:

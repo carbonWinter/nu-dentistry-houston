@@ -38,8 +38,8 @@ keywords:
   dental cleaning, dental cleaning houston, dentist, teeth whitening, dental hygienist, tooth extraction, gentle dental, tooth crown, tooth decay, dental offic...
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1

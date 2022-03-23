@@ -38,8 +38,8 @@ keywords:
   tooth crown, tooth crown houston, dental crown, dental crowns, dental crown cost, types of dental crowns, how long do crowns last, crowns dentist, dental bri...
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1

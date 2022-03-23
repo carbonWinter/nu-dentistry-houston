@@ -38,8 +38,8 @@ keywords:
   cavity, cavities houston, dental cavity, dental cavities, tooth decay, dental fillings, what does a cavity look like, tooth cavity, cavity filling, what is a...
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1

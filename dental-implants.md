@@ -38,8 +38,8 @@ keywords:
   dental implants, dental implants houston, periodontist, dental bridge, how much are dental implants, denture implants, all on 4 dental implants, mini dental ...
 sticky_cta: false
 offer:
-  heading: FREE Gentle Cleaning
-  subheading: Special offer includes cleaning, exam and x-rays
+  heading: 
+  subheading: 
   disclaimer: ""
 blocks:
   - template: text-1
