@@ -22,7 +22,7 @@
     <ul class="uk-accordion-faq uk-child-width-1-2@m" data-uk-grid data-uk-accordion>
       {% for item in block.faqs %}
         <li class="uk-margin-remove-top">
-          <a class="uk-accordion-title" href="#"><span>{{ forloop.index }}</span>{{ item.heading }}</a>
+          <a class="uk-accordion-title uk-text-uppercase" href="#"><span>{{ forloop.index }}</span>{{ item.heading }}</a>
           <div class="uk-accordion-content uk-text-content">{{ item.content | markdownify }}</div>
         </li>
       {% endfor %}

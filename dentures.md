@@ -23,13 +23,13 @@ header:
     text: ""
   page_navigation:
     - text: TYPES OF DENTURES
-      id: "3"
+      id: "2"
     - text: FREQUENTLY ASKED QUESTIONS
       id: "5"
     - text: OUR DENTAL TEAM
       id: "4"
     - text: PARTIALS VS. BRIDGES
-      id: "2"      
+      id: "3"      
 title: Dentures
 seo_title: "Dentures"
 permalink: "/houston-tx/restorative-dentistry/dentures/"
@@ -137,23 +137,12 @@ blocks:
     heading_tag: H2
     color: light
     align: left
-    columns: "1"
+    columns: "2"
     superheading: 
-    heading: WISDOM TOOTH REMOVAL
-    text: WE PUT YOUR LONG-TERM DENTAL HEALTH FIRST.
+    heading: PARTIAL DENTURES VS. DENTAL BRIDGES
+    text: HOW TO DECIDE WHICH CHOICE IS BEST FOR YOU
     content: |-
-      Wisdom teeth extractions might seem drastic and terrifying to patients, but they are exceedingly common. In fact, over 10 million Americans have successfully had their wisdom teeth removed at some point in their lives. Not all wisdom teeth need to be extracted. However, studies have shown that up to 85% of all teens and adults need at least one wisdom tooth removed.
-
-      Reasons why wisdom teeth may need to be extracted:
-
-      - **Tooth direction.** Sometimes a wisdom tooth will emerge sideways or tilted from the gum.
-      - **Impaction.** Wisdom teeth that are unable to fully emerge from the gum can lead to infection or tooth decay. In worst-case scenarios, they can cause severe gum disease, cysts, and tumors.
-      - **Crowded and crooked teeth.** An incoming wisdom tooth can seriously damage nearby teeth and disrupt the alignment of your arch. This crowding can lead to the need for braces or other costly procedures that could otherwise have been avoided.
-      - **Too little space.** If there's not enough room for a wisdom tooth to erupt, it can lead to partial eruption as well as infection and decay.
-      - **Pain.** Toothaches and pain are never a good sign, and depending on your specific case can lead to multiple immediate and future problems.
-      - **Orthodontic problems.** For teens and adults with braces or clear aligners like Invisalign, incoming wisdom teeth can be a nightmare. They run the risk of losing those patients all of their hard-earned straightening progress, setting them back to square one—or worse.
-
-      If you have any questions or concerns about a possible wisdom tooth removal for you or your child, call our office at (832) 916-4144 to set up a consultation.
+      When replacing only a single or few missing teeth in one area of your mouth, it can be hard to decide which replacement option to choose. Partial dentures or dental bridges are both good choices, but which one is better? Dental bridges are false teeth that are permanently attached to your mouth. The two teeth on either side of your gap are filed down to fit a crown while your artificial teeth are connected between them as a single piece. While often made of porcelain to blend in with your natural teeth, bridges can also be made of gold or other metals. Because your replacement teeth are solidly secured to the rest of your mouth, bridges offer a more stabilized bite than dentures. However, they also place stress on the supporting teeth, meaning good dental hygiene habits and care are needed to ensure your bridge’s longevity. While bridges can replace up to 4 teeth in a row, most dentists recommend partial dentures for multiple teeth replacements. If your dental health history is somewhat checkered, it can be more cost-effective to choose an option that doesn’t rely on strong, healthy anchoring teeth. Another advantage of partial dentures is that they are removable, making their cleaning and maintenance relatively easy compared to bridges. Dental bridges require special attention to clean between the false tooth and gums; otherwise, patients run the risk of further tooth and gum problems. If you need help deciding which option is best for you, call our office today to consult with our experts.
     lists: []
 
   - template: cta-1
@@ -168,16 +157,16 @@ blocks:
         color: "#000000"
         opacity: "0.8"
     overlay_size: center
-    heading: "DENTISTRY MADE FUN"
+    heading: "NU DENTISTRY IS HERE FOR YOU"
     text: 
-    superheading: "OUR DENTISTS GIVE YOU AN EXPERIENCE LIKE NO OTHER."
+    superheading: "WE’RE THE DENTAL TEAM THAT MAKES THINGS EASY"
     button:
       text: Request an appointment
       url: ""
       blank: false
     image: "/uploads/tooth-heart-lightBlue.svg"
     content:
-      When you need a tooth extraction in Houston, there's no other dental team you should trust. We're Nu Dentistry, and our expert team of dentists and oral surgeons ensure that you're in the lap of luxury even when you call on short notice or for an emergency. We prepare every room with multiple streaming-capable televisions so you can catch up on your favorite shows, whether you're sitting up or lying back during your treatment. If you experience dental anxiety, we also have an array of safe sedation methods available. It's our goal to keep your mind at ease and allow you to enjoy your time with us.
+      Nu Dentistry is the dental office that cares for you. From the moment you step through our front doors, our professional staff make sure that everything is quick and straightforward for you. We cut down your waiting time, even if you’re walking in on short notice, and we start working with you right away. Our team of highly-experienced denture dentists are always accommodating to your needs and requests, and we do it with a smile. We guarantee that your journey to a brand new you with dentures will be smooth sailing.
     appointment_button: true
     section: ""
     
@@ -192,24 +181,24 @@ blocks:
       video: ""
     color: light
     faqs:
-      - heading: WHAT IS TOOTH EXTRACTION?
+      - heading: HOW MUCH DO DENTURES COST?
         content:
-          Tooth extraction is a dental procedure in which your dentist removes a tooth from your mouth. Extractions may be needed for many reasons. Your tooth is damaged beyond repair. The tooth is unable to emerge from your gums. Or the tooth may be impacted, and its emerging will disrupt your teeth's alignment, requiring costly and time-consuming dental work to **straighten your teeth**.
-      - heading: WHEN SHOULD A TOOTH BE REMOVED?
+          Pricing for dentures is dependent on several factors. What type of denture will be made (partial, full, implant-supported)? What materials will be used (acrylic, cast metal, flexible plastic)? Will there be immediate dentures prepared following extraction? If you’re at all concerned about your replacement teeth costs, contact our office to discuss your financial options. We want to make sure that our patients always receive the dentures they deserve in a manner they can afford.
+      - heading: DO IMMEDIATE DENTURES LOOK NATURAL?
         content:
-          A tooth should be removed only when it poses a threat to the health of the rest of your mouth. Nu Dentistry is dedicated to saving and restoring as many of your teeth as possible! However, saving a tooth may not always be possible when it comes to severely infected, impacted, and crowded teeth. If it's possible to repair your tooth without extraction, then we recommend you always choose this less drastic treatment, if possible.
-      - heading: DOES TOOTH EXTRACTION HURT?
+          Immediate dentures are prepared through molds of your teeth prior to extraction, so they’re just as natural-looking as regular dentures. Our dentists want to ensure you’re always comfortable with your smile, so we take great care that your false teeth fit and look better than your real ones have in years.
+      - heading: CAN I GET MY TEETH PULLED AND DENTURES ON THE SAME DAY?
         content:
-          Thanks to modern-day anesthesia, even surgical tooth extraction can be completely painless! Local anesthesia thoroughly numbs the tooth and surrounding area, so you're always comfortable during your extraction. If you're at all anxious about your treatment, we offer a number of safe sedation options to help ease your mind as well as your body.
-      - heading: WHAT DOES A TOOTH EXTRACTION COST?
+          Yes. After your teeth are pulled, your denture dentist can set you up with immediate dentures that will act as temporary replacements while your permanent dentures are being made. To have your immediate dentures prepared in time, you may have to schedule an appointment before your extraction so that a mold of your mouth can be done.
+      - heading: CAN YOU SLEEP IN DENTURES?
         content:
-          Depending on the location of the tooth, the type of extraction ( simple or surgical) done, and what method of anesthesia or sedation will be used, the price for your tooth removal may vary. Wisdom tooth removals, for example, have their price separate from standard surgical extractions.       
-      - heading: IS IT OK NOT TO REPLACE A MISSING TOOTH?
+          While you may want to, we highly recommend that you don’t wear your dentures at night. Taking out your false teeth while sleeping gives your gums time to rest and heal, and it prolongs the longevity of your dentures. Bacteria and stains are prevented from building up overnight, preventing potential health conditions that can arise.      
+      - heading: Do dentures make you look older?
         content:
-          It's dentist-recommended that you replace your removed tooth to save yourself a lot of potential pain and money in the future. Missing teeth not only lead to bone and structural deterioration, but your surrounding teeth will shift to fill the gaps. Those teeth often become at risk of gum disease, which can lead to them falling out or needing extraction as well. Replacement teeth help maintain the structure and integrity of your mouth, far extending the lifespan of your smile.
-      - heading: IS IT REALLY NECESSARY TO REMOVE IMPACTED WISDOM TEETH?
+          Not at all! Dentures can help you retain a more youthful appearance. Leaving your missing teeth alone can result in facial sagging. Replacement teeth like dentures help keep your facial structure as it is. They look as natural as your natural teeth, so you always stay looking happy and healthy.
+      - heading: CAN I GET DENTURES WITH NO TEETH?
         content:
-          While not always necessary for everyone, impacted wisdom tooth extraction can be extremely crucial in a patient's dental development and overall health. If wisdom teeth are unable to fully emerge, you can't properly clean or maintain them. Tooth decay and gum disease are often quick to follow. In some instances, this can lead to cysts and tumor development. At Nu Dentistry, we only recommend that at-risk teeth be removed, and we take great care to ensure you always retain your healthiest smile possible.
+          You do not need any remaining teeth to get dentures. While partial dentures replace only a select few teeth, complete dentures are full teeth replacements for your entire arch or mouth. Millions of Americans use full dentures to improve their lives, and you can too.
     superheading: ""
     heading: Frequently Asked Questions
     text: 
