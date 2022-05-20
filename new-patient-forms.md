@@ -20,7 +20,7 @@ header:
     text: 
   col_two:
     heading: "New Patient Forms"
-    text: ""
+    text: "<iframe src="https://dgp.formstack.com/forms/nu_dentistry_new_patient_form" title="Nu Dentistry New Patient Form" width="600" height="400"></iframe>"
   page_navigation:
 title: Bellflower, CA
 seo_title: "Bellflower, CA"
