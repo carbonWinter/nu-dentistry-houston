@@ -28,5 +28,3 @@ Compile and minify:
 ```bash
 npm run build
 ```
-
-
